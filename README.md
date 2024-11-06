@@ -43,7 +43,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 [![](https://github-readme-stats.vercel.app/api?username=ItsJustStyles&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ItsJustStyles)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ItsJustStyles&theme=material-palenight)](https://github.com/ItsJustStyles)
-[![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsJustStyles&layout=compact&langs_count=8&theme=algolia)
+[![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsJustStyles&layout=compact&langs_count=8&theme=algolia)](https://github.com/ItsJustStyles)
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
