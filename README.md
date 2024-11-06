@@ -39,7 +39,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
-## Check out my Social Media
+## Mis redes sociales
 
 <a href= "https://www.instagram.com/valenwerle/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -56,6 +56,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=ItsJustStyles&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ItsJustStyles)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ItsJustStyles&theme=material-palenight)](https://github.com/ItsJustStyles)
 </div>
