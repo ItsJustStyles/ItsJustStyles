@@ -4,14 +4,11 @@
 
 ***Sobre mi***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+Soy estudiante del Colegio Cientifico del Atlántico
+- 🌱 Estoy aprendiendo...
+  - HTML
+  - Java
+- 🎮 Juego videojuegos, 🎵 escucho música.
 - 📫 Puedes contactarme: <a href="lacayopicado@gmail.com">lacayopicado@gmail.com</a>
 
 ## Mis habilidades
@@ -39,7 +36,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
-## Mis redes sociales
+## Mis redes sociales:
 
 <a href= "https://www.instagram.com/valenwerle/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -54,7 +51,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
-<h2>Github stats:</h2> 
+<h2>Mis estadisticas:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ItsJustStyles&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ItsJustStyles)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ItsJustStyles&theme=material-palenight)](https://github.com/ItsJustStyles)
