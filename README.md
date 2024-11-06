@@ -33,7 +33,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 </span>
 
-<img align="right" width="250px" src="https://media1.tenor.com/m/DVqLuG3yhaQAAAAC/mochi-mochimons.gif" style="padding-top: 50px;" />
+<img align="right" width="250px" src="https://media1.tenor.com/m/DVqLuG3yhaQAAAAC/mochi-mochimons.gif" style="padding-top: 50x;" />
 
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
