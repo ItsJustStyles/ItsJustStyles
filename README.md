@@ -33,7 +33,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 </span>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" margin-top: 50px src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
