@@ -33,7 +33,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 </span>
 
-
+<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/DVqLuG3yhaQAAAAC/mochi-mochimons.gif" />
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
 - 🥉Medalla de bronce 2024 en OCI.
@@ -46,7 +46,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 - 🥈Segundo lugar en Data Challenge 2024.
 - 🏅Finalista en Samsung Solve for Tomorrow 2024.
 
-<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/DVqLuG3yhaQAAAAC/mochi-mochimons.gif" />
+
 
 
 ## Mis redes sociales:
