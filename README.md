@@ -2,16 +2,16 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-***Sobre mi***
+***Sobre mi:***
 
-Soy estudiante del Colegio Cientifico del Atlántico
+Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TEC...
 - 🌱 Estoy aprendiendo...
   - HTML
   - Java
 - 🎮 Juego videojuegos, 🎵 escucho música.
 - 📫 Puedes contactarme al: <a href="lacayopicado@gmail.com">lacayopicado@gmail.com</a>
 
-## Mis habilidades
+## Mis habilidades:
 
 <h4> Languages </h4>
 <span> 
@@ -23,11 +23,11 @@ Soy estudiante del Colegio Cientifico del Atlántico
 </span>
 
 
-<h4> Otras herramientas o tecnologías  </h4>
+<h4> Otras herramientas o tecnologías:  </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 
 
 </span>
