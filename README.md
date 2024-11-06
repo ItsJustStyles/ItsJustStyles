@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, soy Justin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://fondosanimados.com/wp-content/uploads/2023/05/makima-8.jpg"><width=30px>
+<img src="https://fondosanimados.com/wp-content/uploads/2023/05/makima-8.jpg">
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## Sobre mi:
@@ -33,7 +33,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 </span>
 
-<img align="right" width="250px" src="https://media1.tenor.com/m/DVqLuG3yhaQAAAAC/mochi-mochimons.gif" style="padding-top: 50x;" />
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
