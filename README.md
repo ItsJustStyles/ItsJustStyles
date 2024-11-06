@@ -37,7 +37,9 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 <a href= "https://www.instagram.com/jus.xd05/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-
+<a href= "https://www.facebook.com/justin.lacayo.56">
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
 <h2>Mis estadisticas:</h2> 
 
