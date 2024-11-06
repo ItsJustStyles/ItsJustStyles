@@ -22,6 +22,17 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 </span>
 
+
+
+
+<h4> Otras herramientas o tecnologías:  </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+
+
+</span>
+
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
 - 🥉Medalla de bronce 2024 en OCI.
@@ -33,16 +44,6 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 - 🥉Medalla de bronce en Canguro matématico 2024.
 - 🥈Segundo lugar en Data Challenge 2024.
 
-
-
-<h4> Otras herramientas o tecnologías:  </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-
-
-
-</span>
 
 ## Mis redes sociales:
 
