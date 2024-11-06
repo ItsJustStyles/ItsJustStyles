@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, soy Justin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://fondosanimados.com/wp-content/uploads/2023/05/makima-8.jpg">
+<img src="https://fondosanimados.com/wp-content/uploads/2023/05/makima-8.jpg"><width=300px>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ***Sobre mi:***
