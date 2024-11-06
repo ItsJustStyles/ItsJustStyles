@@ -33,7 +33,6 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 
 </span>
 
-<img align="right" width=300px alt="Unicorn" style = "margin-top: 200px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
@@ -46,6 +45,8 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto entudiante del TE
 - 🥉Medalla de bronce en Canguro matématico 2024.
 - 🥈Segundo lugar en Data Challenge 2024.
 - 🏅Finalista en Samsung Solve for Tomorrow 2024.
+
+<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/DVqLuG3yhaQAAAAC/mochi-mochimons.gif" />
 
 
 ## Mis redes sociales:
