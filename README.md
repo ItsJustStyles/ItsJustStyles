@@ -38,6 +38,7 @@ Soy estudiante del Colegio Cientifico del Atlántico, y pronto estudiante del TE
 - 🥇Primer lugar en INNOW INTEL 2024.
 - 🏆Primer lugar en NI Challenge.
 - 🥈Segundo lugar en Minecraft Challenge 2023.
+- 🥇Primer lugar en Minecraft Challenge 2024.
 - 🥈Segundo lugar en Robotifest Nao V6 2023.
 - 🏅Mención de honor en OCAA 2024.
 - 🥉Medalla de bronce en Canguro matématico 2024.
