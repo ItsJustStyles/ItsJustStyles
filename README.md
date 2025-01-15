@@ -4,7 +4,7 @@
 
 ## Sobre mi:
 
-Soy estudiante del Colegio Cientifico del Atlántico, y pronto estudiante del TEC...
+Soy estudiante Tec.
 - 🌱 Estoy aprendiendo...
   - HTML
   - Java
