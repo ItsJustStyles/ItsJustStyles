@@ -30,7 +30,8 @@ Soy estudiante del Tec.
 
 </span>
 
-
+##Mi perfil en Omegaup:
+<a href="https://omegaup.com/profile/">Perfil Omegaup</a>
 
 ## Mis logros:
 - 🥉Medalla de bronce 2023 en OCI.
