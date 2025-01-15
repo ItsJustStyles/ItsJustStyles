@@ -4,7 +4,7 @@
 
 ## Sobre mi:
 
-Soy estudiante Tec.
+Soy estudiante del Tec.
 - 🌱 Estoy aprendiendo...
   - HTML
   - Java
