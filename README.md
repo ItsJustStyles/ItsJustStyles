@@ -6,7 +6,6 @@
 Soy estudiante del Tec.
 - 🌱 Estoy aprendiendo...
   - HTML
-  - Java
 - 🎮 Juego videojuegos, 🎵 escucho música.
 - 📫 Puedes contactarme al: <a href="lacayopicado@gmail.com">lacayopicado@gmail.com</a>
 
@@ -17,6 +16,7 @@ Soy estudiante del Tec.
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 
 </span>
